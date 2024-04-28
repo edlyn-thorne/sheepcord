@@ -1,0 +1,1 @@
+I regret my own birth.
