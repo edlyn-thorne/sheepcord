@@ -18,7 +18,7 @@ import { base } from "$app/paths";
     <div class="content">
         <span class="title">Days since <span class="chat-link"><a href="https://discord.com/channels/1207012737683689472/1207023404381904966">#⁠⟢☕chat-1</a></span> fucked up:</span>
         <br>
-        <span class="counter">0</span>
+        <span class="counter">1</span>
     </div>
     <span class="footer">I HATE ALL OF YOU.</span>
 </div>
